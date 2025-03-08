@@ -9,5 +9,5 @@ http:
 
 script-providers:
   remove_ua_for_v1mk:
-    path: https://raw.githubusercontent.com/chensongxian/stash_config/refs/heads/main/remove_ua_for_v1mk.js
+    url: https://raw.githubusercontent.com/chensongxian/stash_config/refs/heads/main/remove_ua_for_v1mk.js
     interval: 86400
