@@ -1,3 +1,4 @@
+name: "去除订阅ua"
 http:
   script:
     - match: ^https?://url\.v1\.mk
