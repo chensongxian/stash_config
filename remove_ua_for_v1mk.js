@@ -1,4 +1,4 @@
-console.log(`[Rewrite] Request URL: ${url}`);
+console.log(`[Rewrite] Request URL:`);
 // Stash HTTP 请求覆写脚本
 function main() {
     // 获取当前请求信息
